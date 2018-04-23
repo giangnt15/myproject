@@ -1,2 +1,2 @@
 # myproject
-Giang Nguyen
+Giang Nguyen 15-02-1998
